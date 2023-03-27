@@ -19,6 +19,6 @@ Como recomendaciones se puede decir que:
 
 El modelo de arbol de regresion es el mas confiable en este caso
 
-Se recomienda que si la comida del mar es la mayor generadora de ventas, tenga una visibilidad mucho mas accesible, para asi no solo generar mas ventas, sino que conservar el nivel de ventas actual.
+Se recomienda que si la comida del mar es la mayor generadora de ventas, tenga una visibilidad mucho mas accesible, para asi no solo generar mas ventas, sino que pueda conservar el nivel de ventas actual.
 
 Se recomienda adecuar los supermercados tipo2 a los supermercados tipo 1
